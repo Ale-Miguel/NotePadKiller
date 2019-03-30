@@ -1,0 +1,129 @@
+﻿  pch.cpp
+  NotePadKiller.cpp
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(21): error C2146: error de sintaxis: falta ';' delante del identificador 'hCodigoDll'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(22): error C2143: error de sintaxis: falta ';' delante de '__stdcall'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(22): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(22): error C2065: 'DWORD': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(22): error C2059: error de sintaxis: ','
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(23): error C2143: error de sintaxis: falta ';' delante de '*'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(25): error C2065: 'HANDLE': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(25): error C2065: 'HMODULE': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(25): error C2059: error de sintaxis: ','
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(26): error C2143: error de sintaxis: falta ';' delante de '*'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(26): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): error C2143: error de sintaxis: falta ';' delante de '__stdcall'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): error C2065: 'HANDLE': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): error C2065: 'HMODULE': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): error C2065: 'LPTSTR': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): error C2275: 'DWORD': uso no válido de este tipo como expresión
+  c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): note: vea la declaración de 'DWORD'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): warning C4229: se ha utilizado un anacronismo: se omiten los modificadores de datos
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): error C2440: 'inicializando': no se puede realizar la conversión de 'initializer list' a 'int'
+  c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): note: El inicializador contiene demasiados elementos
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(29): error C2143: error de sintaxis: falta ';' delante de '*'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(29): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(29): error C2086: 'int TipoRutina_GetModuleBaseName': nueva definición
+  c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(28): note: vea la declaración de 'TipoRutina_GetModuleBaseName'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(31): error C2146: error de sintaxis: falta ';' delante del identificador 'interfaz_al_SCM'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(32): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(32): error C2146: error de sintaxis: falta ';' delante del identificador 'serviceStatus'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(33): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(33): error C2146: error de sintaxis: falta ';' delante del identificador 'tabla'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(35): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(35): error C2146: error de sintaxis: falta ';' delante del identificador 'nombreServicio'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(37): error C2143: error de sintaxis: falta ';' delante de '*'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(37): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(39): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(39): error C2146: error de sintaxis: falta ';' delante del identificador 'elThread'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(42): error C2182: 'WINAPI': uso no válido del tipo 'void'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(42): error C2146: error de sintaxis: falta ';' delante del identificador 'ServiceMain'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(42): error C2061: error de sintaxis: identificador 'LPTSTR'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(42): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(43): error C2182: 'WINAPI': uso no válido del tipo 'void'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(43): error C2086: 'int WINAPI': nueva definición
+  c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(42): note: vea la declaración de 'WINAPI'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(43): error C2146: error de sintaxis: falta ';' delante del identificador 'mainHandle'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(43): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(46): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(49): error C3861: 'strlen': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(49): error C3861: 'mbstowcs': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(50): error C2065: 'nombreServicio': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(52): error C2065: 'tabla': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(52): error C2065: 'nombreServicio': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(53): error C2065: 'tabla': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(54): error C2065: 'tabla': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(54): error C3861: 'StartServiceCtrlDispatcher': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(59): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(59): error C2065: 'SERVICE_WIN32_OWN_PROCESS': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(60): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(61): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(61): error C2065: 'SERVICE_CONTROL_INTERROGATE': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(62): error C2065: 'SERVICE_ACCEPT_STOP': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(63): error C2065: 'SERVICE_ACCEPT_PAUSE_CONTINUE': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(64): error C2065: 'SERVICE_ACCEPT_SHUTDOWN': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(65): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(65): error C2065: 'NO_ERROR': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(66): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(67): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(68): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(71): error C2086: 'int WINAPI': nueva definición
+  c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(42): note: vea la declaración de 'WINAPI'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(71): error C2146: error de sintaxis: falta ';' delante del identificador 'corre'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(71): error C2065: 'LPVOID': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(71): error C2146: error de sintaxis: falta ')' delante del identificador 'lpParameter'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(71): error C2143: error de sintaxis: falta ';' delante de '{'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(71): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(115): error C2182: 'WINAPI': uso no válido del tipo 'void'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(115): error C2086: 'int WINAPI': nueva definición
+  c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(42): note: vea la declaración de 'WINAPI'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(115): error C2146: error de sintaxis: falta ';' delante del identificador 'mainHandle'
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(115): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(117): error C2065: 'SERVICE_CONTROL_STOP': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(117): error C2131: la expresión no se evaluó como una constante
+  c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(117): note: se encontró una (sub)expresión no constante
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(118): error C2065: 'SERVICE_STOP_PENDING': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(119): error C2065: 'interfaz_al_SCM': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(119): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(119): error C3861: 'SetServiceStatus': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(121): error C3861: 'fprintf': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(121): error C3861: 'fflush': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(123): error C2065: 'elThread': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(123): error C3861: 'TerminateThread': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(124): error C2065: 'SERVICE_STOPPED': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(125): error C2065: 'interfaz_al_SCM': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(125): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(125): error C3861: 'SetServiceStatus': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(126): error C2065: 'hCodigoDll': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(126): error C3861: 'FreeLibrary': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(127): error C3861: 'fprintf': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(127): error C3861: 'fflush': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(130): error C2065: 'SERVICE_RUNNING': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(131): error C2065: 'interfaz_al_SCM': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(131): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(131): error C3861: 'SetServiceStatus': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(132): error C3861: 'fprintf': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(132): error C3861: 'fflush': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(135): error C2065: 'SERVICE_CONTROL_PAUSE': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(135): error C2131: la expresión no se evaluó como una constante
+  c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(135): note: se encontró una (sub)expresión no constante
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(136): error C2065: 'SERVICE_PAUSE_PENDING': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(137): error C2065: 'interfaz_al_SCM': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(137): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(137): error C3861: 'SetServiceStatus': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(139): error C2065: 'elThread': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(139): error C3861: 'SuspendThread': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(140): error C2065: 'SERVICE_PAUSED': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(141): error C2065: 'interfaz_al_SCM': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(141): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(141): error C3861: 'SetServiceStatus': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(144): error C2065: 'SERVICE_RUNNING': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(145): error C2065: 'interfaz_al_SCM': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(145): error C2065: 'serviceStatus': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(145): error C3861: 'SetServiceStatus': no se encontró el identificador
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(148): error C2065: 'SERVICE_CONTROL_CONTINUE': identificador no declarado
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(148): error C2131: la expresión no se evaluó como una constante
+c:\users\ale_j\documents\programacion avanzada\notepadkiller\notepadkiller\notepadkiller.cpp(148): fatal error C1003: el recuento de errores supera 100; se detiene la compilación
